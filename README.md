@@ -44,7 +44,7 @@ CC GUI（ccgui-next）Tier-1 JS 插件：给会话贴**结构化便签**，集�
 ## 文件
 
 - `manifest.json` / `main.js`（单文件 ESM，零 import）
-- 设计文档：`../docs/note-query-plugin-design.md`
+- 架构与实现方案（350 行设计文档）属开发资料，未随本仓库分发
 
 ## 许可
 
